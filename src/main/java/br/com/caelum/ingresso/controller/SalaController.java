@@ -46,8 +46,6 @@ public class SalaController {
     }
 
 
-
-
     @PostMapping("/admin/sala")
     @Transactional
     public ModelAndView salva(@Valid Sala sala, BindingResult result){
