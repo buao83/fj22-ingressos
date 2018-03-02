@@ -1,7 +1,6 @@
 package br.com.caelum.ingresso.model;
 
 import java.math.BigDecimal;
-import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
